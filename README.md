@@ -93,7 +93,7 @@ Beyond HTML, CSS, DOM, JavaScript, HTTP/URL, and browser development know-how, a
 
 ## Most interested roles
 
-https://frontendmasters.com/books/front-end-handbook/2018/images/fullstack1.png
+![Kitten](https://frontendmasters.com/books/front-end-handbook/2018/images/fullstack1.png)
 
 ## Front-End Job Boards
 - angularjobs.com
@@ -117,15 +117,178 @@ Cheatsheets:
 - devhints.io
 
 ## Prototyping & Wireframing Tools
-Creating:
+### Creating:
 - Axure [$]
 - Balsamiq Mockups [$]
 - Justinmind [$]
 - Moqups [$]
 - proto.io [$]
 - UXPin [free to $]
-Collaboration / Presenting:
+### Collaboration / Presenting:
 - InVision [free to $]
 - Conceptboard [free to $]
 - myBalsamiq [$]
 - Marvel [free to $]
+
+## Editor Tools Advice
+
+![Kitten](https://frontendmasters.com/books/front-end-handbook/2018/images/vscode.png)
+
+## CSS Frameworks
+- Base
+- Bulma
+- Bootstrap 4
+- Concise
+- Foundation
+- Material Design Lite (MDL)
+- Metro UI
+- Mini.css
+- Mobi.css
+- Picnic
+- Pure.css
+- Semantic UI
+- Shoelace
+- Spectre.css
+
+## JavaScript Tools
+### Utilities
+- accounting.js
+- async
+- axios
+- chance
+- date-fns
+- format.js
+- immutable
+- is.js
+- lodash
+- Luxon
+- Math.js
+- Moment.js
+- Numeral.js
+- Ramda
+- RxJS
+- string.js
+- voca
+- wait
+- xregexp.com
+### Transpiling / Type Checking (ES to ES):
+- Babel
+- TypeScript
+- Flow
+
+## App Frameworks (Desktop, Mobile, Tablet, etc.) Tools
+### Front-End App Frameworks: 1
+- AngularJS (i.e Angular 1.x.x) + Batarang
+- Angular (i.e. Angular 2.0.0 +) + angular-cli
+- Aurelia + Aurelia CLI
+- Ember + embercli + Ember Inspector
+- Polymer
+- React + create-react-app + React Developer Tools
+- Vue.js + vue-cli & Vue.js devtools
+- Riot
+### Native Hybrid Mobile WebView (i.e., Browser Engine Driven) Frameworks:
+These solutions typically use Cordova, crosswalk, or a custom WebView as a bridge to native APIs.
+- ionic
+- onsen.io
+### Native Hybrid Mobile Development Webview (i.e., Browser Engine Driven) Environments/Platforms/Tools:
+These solutions typically use Cordova, crosswalk, or a custom WebView as a bridge to native APIs.
+- Adobe PhoneGap [$]
+- cocoon.io [free to $]
+- ionic hub [free to $]
+- kony [$]
+- Monaca [$]
+### Native Desktop WebView (i.e., Browser Engine Driven) App Frameworks:
+- Electron
+- NW.js
+### Native Mobile App Frameworks (Aka JavaScript Native Apps)
+These solutions use a JS engine at runtime to interpret JS and bridge that to native APIs. No browser engine or WebView is used. The UI is constructed from native UI components.
+- Flutter
+- NativeScript
+- React Native
+- tabris.js [free to $]
+- trigger.io [$]
+- weex
+
+## State Tools
+- Redux
+- Mobx
+- mobx-state-tree
+- Cerebral
+- freactal
+- unistore
+- Vuex
+
+## UI Widget & Component Toolkits
+### On Web Platform: 1
+- Kendo UI for jQuery [free to $]
+- Materialize
+- Office UI Fabric
+- Semantic UI
+- UiKit
+- Webix [$]
+### Native Desktop/Laptop/Netbook Apps via Web Platform (i.e. used with NW.js and Electron):
+- Photon
+- React UI Components for OS X El Capitan and Windows 10
+
+## Data Visualization (e.g., Charts) Tools
+### JS Libraries:
+- d3
+- sigmajs
+### Widgets & Components:
+- amCharts [free to $]
+- AnyChart [Non-commercial free to $]
+- C3.js
+- Chartist-jsj
+- Chart.js
+- Epoch
+- FusionCharts [$]
+- Google Charts
+- Highcharts [Non-commercial free to $]
+- ZingChart [free to $]
+
+## Front-End Data Storage Tools (i.e. Data storage solution in the client)
+- AlaSQL
+- Dexie.js
+- LocalForage
+- LokiJS
+- Lovefield
+- lowdb
+- Pouchdb
+- NeDB
+- RxDB
+
+## Module Loading/Bundling Tools
+- Parcel
+- Rollup
+- Microbundle
+- webpack
+- Fusebox
+- Browserify
+
+## Module/Package Repository Tools
+- NPM
+- yarn
+- PNPM
+
+## Collaboration & Communication Tools
+- Slack & screenhero [free to $]
+- appear.in
+- Mattermost [free to $]
+
+## Tasking (aka Build) Tools
+- Gulp
+
+## Tools for Finding Tools
+- Wappalizer
+- built with
+- frontendtools.com
+- javascripting.com
+- js.coach
+- JSter
+- microjs.com
+- npms
+- stackshare.io
+- Unheap
+
+## Reference
+![Kitten](https://frontendmasters.com/books/front-end-handbook/2018/frontendmasters.jpg)
